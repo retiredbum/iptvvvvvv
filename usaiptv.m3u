@@ -1,5 +1,5 @@
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml,https://epg.tvnow.best/utc.lite.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml,https://epg.tvnow.best/utc.lite.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 #EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png",TVNZ 1
 http://livestreams.e-cast.co.nz/tv1.m3u8
 #EXTINF:-1 channel-id="mjh-tvnz-2" tvg-id="mjh-tvnz-2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png",TVNZ 2
