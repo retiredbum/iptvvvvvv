@@ -44,18 +44,10 @@ http://38.96.178.201:80/live/FOXNEWS/index.m3u8
 http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="history.channel.us.east.us" tvg-logo="https://media.tv4.live/history.channel.us.east.us.png",History Channel
 http://38.96.178.201:80/live/History/index.m3u8
-#EXTINF:-1 tvg-id="itv.1.uk" tvg-logo="https://media.tv4.live/itv.1.uk.png",ITV
-http://87.120.142.8:17000/itv1
-#EXTINF:-1 tvg-id="itv.2.uk" tvg-logo="https://media.tv4.live/itv.2.uk.png",ITV 2
-http://87.120.142.8:17000/itv2
-#EXTINF:-1 tvg-id="itv.3.uk" tvg-logo="https://media.tv4.live/itv.3.uk.png",ITV 3
-http://87.120.142.8:17000/itv3
-#EXTINF:-1 tvg-id="itv.4.uk" tvg-logo="https://media.tv4.live/itv.4.uk.png",ITV 4
-http://87.120.142.8:17000/itv4
 #EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="msnbc.usa.us" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC 
 http://38.96.178.201:80/live/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="newsnation.eastern.us" tvg-logo="https://media.tv4.live/newsnation.eastern.us.png",NewsNation
-http://hostengine.live:80/live/BTjstevens/BTtv101010/225548.ts
+http://hostengine.live:80/live/BTjstevens/BTtv101010/225548.m3u8
 #EXTINF:-1 tvg-id="syfy.eastern.us" tvg-logo="https://media.tv4.live/syfy.eastern.us.png",Syfy 
 http://38.96.178.201:80/live/SYFYHD/index.m3u8
 #EXTINF:-1 tvg-id="tbs.east.us" tvg-logo="https://media.tv4.live/tbs.east.us.png",TBS
