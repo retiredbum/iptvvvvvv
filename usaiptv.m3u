@@ -28,6 +28,8 @@ http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 #EXTINF:-1 tvg-id="cnn.international.north.america.us" tvg-logo="https://media.tv4.live/cnn.us.png",CNN
 http://38.96.178.201:80/live/CNNHD/index.m3u8
+#EXTINF:-1 tvg-id="CWEast.us" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/CW.png",THE CW NETWORK
+https://cdn1-9p.teleuptv.net/26b133af-4436-48b3-802a-aff73cefc41e/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png",Discovery Channel 
 http://38.96.178.201:80/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="espn.us" tvg-logo="https://media.tv4.live/espn.us.png",ESPN
@@ -40,6 +42,10 @@ http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 tvg-id="fox.news.us" tvg-logo="https://media.tv4.live/fox.news.us.png",FOX News 
 http://38.96.178.201:80/live/FOXNEWS/index.m3u8
+#EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Freeform.png",FREEFORM
+https://cdn1-9p.teleuptv.net/03067123-de29-4f43-9d65-0a65a8aa43f4/rewind-14400.m3u8
+#EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FX.png",FX
+https://cdn1-9p.teleuptv.net/9358b6f4-3177-4fd5-8bd7-72d50025ad83/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-logo="https://media.tv4.live/hbo.2.eastern.us.png",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="history.channel.us.east.us" tvg-logo="https://media.tv4.live/history.channel.us.east.us.png",History Channel
@@ -62,14 +68,6 @@ http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports 5 
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",TNT Sports 1
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",TNT Sports 2
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",TNT Sports 3
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",TNT Sports 4
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTINF:-1 channel-id="mjh-trackside-1" tvg-id="" tvg-logo="https://i.mjh.nz/.images/trackside-1.png",TAB TRACKSIDE 1
 https://i.mjh.nz/trackside-1.m3u8
 #EXTINF:-1 channel-id="mjh-trackside-2" tvg-id="" tvg-logo="https://i.mjh.nz/.images/trackside-2.png",TAB TRACKSIDE 2
