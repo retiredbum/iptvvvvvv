@@ -62,6 +62,8 @@ http://38.96.178.201:80/live/TBS/index.m3u8
 http://38.96.178.201:80/live/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="usa.network.east.us" tvg-logo="https://media.tv4.live/usa.network.east.us.png",USA Network
 http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg",WWE Network  
+http://193.58.152.27:7788/WWE/index.m3u8
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports 1 
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports 2
