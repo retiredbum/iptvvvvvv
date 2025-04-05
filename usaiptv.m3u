@@ -57,6 +57,6 @@ http://38.96.178.201:80/live/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/usa.network.east.us.png",USA Network
 http://38.96.178.201:80/live/USA/index.m3u8
 #EXTINF:-1 channel-id="mjh-trackside-1" tvg-id="" tvg-logo="https://i.mjh.nz/.images/trackside-1.png",TAB TRACKSIDE 1
-https://i.mjh.nz/trackside-1.m3u8
+https://i.mjh.nz/.r/trackside-1.m3u8
 #EXTINF:-1 channel-id="mjh-trackside-2" tvg-id="" tvg-logo="https://i.mjh.nz/.images/trackside-2.png",TAB TRACKSIDE 2
-https://i.mjh.nz/trackside-2.m3u8 
+https://i.mjh.nz/.rtrackside-2.m3u8 
