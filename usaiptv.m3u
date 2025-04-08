@@ -20,15 +20,15 @@ http://livestreams.e-cast.co.nz/prime.m3u8
 http://livestreams.e-cast.co.nz/rush.m3u8
 #EXTINF:-1 channel-id="mjh-al-jazeera" tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/bbc.america.east.us.png",BBC America
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/150px-BBC_America_logo_2021.svg.png",BBC America
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/cnn.us.png",CNN
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN
 http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png",Discovery Channel 
 http://38.96.178.201:80/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/espn.us.png",ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN.png",ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-logo="",ESPN 2
 http://38.96.178.201:80/live/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",Food Network 
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
@@ -42,9 +42,9 @@ http://212.102.60.231/HBO/index.m3u8
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/history.channel.us.east.us.png",History Channel
 http://38.96.178.201:80/live/History/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="msnbc.usa.us" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC 
+#EXTINF:-1 tvg-id="" tvg-name="msnbc.usa.us" tvg-logo="",MSNBC 
 http://38.96.178.201:80/live/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/newsnation.eastern.us.png",NewsNation
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/NewsNation_logo.svg",NewsNation
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Showtime (East)" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png",Showtime
 http://212.102.60.231/SHOWTIME/index.m3u8
