@@ -34,7 +34,7 @@ http://38.96.178.201:80/live/ESPN2/index.m3u8
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/fox.ktbc.austin.tx.us.png",FOX
 http://38.96.178.201:80/live/FOXHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/fox.news.us.png",FOX News 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",FOX News 
 http://38.96.178.201:80/live/FOXNEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="tvg-logo="https://i.ibb.co/mHjbJW6/hbo-east.png",HBO
 http://212.102.60.231/HBO/index.m3u8
@@ -42,7 +42,7 @@ http://212.102.60.231/HBO/index.m3u8
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/history.channel.us.east.us.png",History Channel
 http://38.96.178.201:80/live/History/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="msnbc.usa.us" tvg-logo="",MSNBC 
+#EXTINF:-1 tvg-id="" tvg-name="msnbc.usa.us" tvg-logo="https://m.media-amazon.com/images/I/31dWAvGOQQL.png",MSNBC 
 http://38.96.178.201:80/live/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/NewsNation_logo.svg",NewsNation
 http://212.102.60.231/NEWS_NATION/index.m3u8
