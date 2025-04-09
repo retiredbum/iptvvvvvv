@@ -28,7 +28,7 @@ http://38.96.178.201:80/live/CNNHD/index.m3u8
 http://38.96.178.201:80/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN.png",ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dropbox.com/s/5cb8lt2a7clxccv/ESPN_2_US.png?dl=1",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.usasevens.com/las-vegas/files/2017/12/ESPN-Logo.png",ESPN 2
 http://38.96.178.201:80/live/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgx.fubo.tv/station_logos/food_network_c.png",Food Network 
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
@@ -44,7 +44,7 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 http://38.96.178.201:80/live/History/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="msnbc.usa.us" tvg-logo="https://m.media-amazon.com/images/I/31dWAvGOQQL.png",MSNBC 
 http://38.96.178.201:80/live/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/NewsNation_logo.svg",NewsNation
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/05/NN_NOW_Key-Art_16x9.png?quality=75",NewsNation
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Showtime (East)" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png",Showtime
 http://212.102.60.231/SHOWTIME/index.m3u8
