@@ -25,8 +25,8 @@ https://i.mjh.nz/.r/al-jazeera.m3u8
 http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/8xDfMX6/hbo-family-east.png",HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-
+EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC USA
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/05/NN_NOW_Key-Art_16x9.png?quality=75",NewsNation
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="Showtime" tvg-name="Showtime (East)" tvg-logo="https://i.ibb.co/9wyhp92/showtime-icon-us.png",Showtime
@@ -37,4 +37,5 @@ http://212.102.60.231/SHOWTIME/index.m3u8
 https://trackside-nz.akamaized.net/hls/live/2115595/Trackside1/TAB/master.m3u8
 #EXTINF:-1 channel-id="mjh-trackside-2" tvg-id="" tvg-logo="https://i.mjh.nz/.images/trackside-2.png",TAB TRACKSIDE 2
 https://trackside-nz.akamaized.net/hls/live/2115596/Trackside2/TAB/master.m3u8
+
 
