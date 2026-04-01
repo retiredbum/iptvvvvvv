@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml,"
 #EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png",TVNZ 1
 https://i.mjh.nz/.r/tvnz-1.m3u8
